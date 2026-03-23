@@ -20,7 +20,6 @@ Proyecto de análisis de datos enfocado en identificar los factores que influyen
 
 - **Visualización de datos (Power BI)**: Creación de un panel interactivo para observar patrones y tendencias, permitiendo una visualización fácil y clara de los datos clave.
 
-- **Presentación de los Resultados**: Desarrollo de una presentación con el fin de visualizar los hallazgos con mayor relevancia.
 
 ## 🛠️ Tech Stack (Tecnologías utilizadas)
 
